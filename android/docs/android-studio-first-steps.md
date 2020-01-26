@@ -6,3 +6,6 @@ https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kot
 
 current status
 https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#5 step 10 to be done
+
+other docs
+https://developer.android.com/courses/kotlin-android-fundamentals/overview
